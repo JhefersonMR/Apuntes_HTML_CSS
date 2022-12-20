@@ -17,3 +17,12 @@ GitHub es un sitio "social coding". Te permite subir repositorios de código par
 Markdown es una forma sencilla de agregar formato a textos en la web y funciona incorporando algunos caracteres a nuestro contenido. Es un código de texto plano, simple y fácil de escribir. Por seguridad y compatibilidad no usamos editor de texto HTML.
 
 Etiquetas básicas de Markdown
+
+Encabezados. Llevan ya asociado un estilo por defecto cada uno.
+'# H1'
+'## H2'
+'### H3'
+'#### H4'
+'##### H5'
+'###### H6'
+
