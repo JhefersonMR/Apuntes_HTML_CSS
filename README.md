@@ -59,3 +59,42 @@ Etiquetas básicas HTML
 - Cita (<blockquote>)  
   
 ## CSS
+
+¿Qué es y para qué sirve el CSS?
+  
+Básicamente, es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se encarga del contenido básico de las páginas.
+  
+UBICACIÓN
+  
+Documento externo
+  
+<link rel="stylesheet" href="estils.css" type="text/css" />
+  
+ESTRUCTURA
+  
+TIPOS DE SELECTORES
+
+  Selector de elementos
+  
+  Selector de clase
+  
+  Selector de id
+  
+ MAS SELECTORES
+  
+  Selectores universales
+  
+  Selectores de atributos
+  
+  Selectores de hijos
+  
+COMPOSICIÓN. Margenes, bordes y relleno en CSS
+  
+  Margen (margin)
+  
+  Bordes (border)
+  
+  Relleno (padding)
+  
+  
+Google Fonts
