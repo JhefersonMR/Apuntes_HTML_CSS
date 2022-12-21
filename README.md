@@ -19,12 +19,12 @@ Markdown es una forma sencilla de agregar formato a textos en la web y funciona 
 Etiquetas básicas de Markdown
 
 Encabezados. Llevan ya asociado un estilo por defecto cada uno.
--# H1
--## H2
--### H3
--#### H4
--##### H5
--###### H6
+  # H1
+  ## H2
+  ### H3
+  #### H4
+  ##### H5
+  ###### H6
 
 ## HTML
 ¿Qué es y para qué sirve el HTML?
