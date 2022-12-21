@@ -19,12 +19,12 @@ Markdown es una forma sencilla de agregar formato a textos en la web y funciona 
 Etiquetas básicas de Markdown
 
 Encabezados. Llevan ya asociado un estilo por defecto cada uno.
-"# H1"
-"## H2"
-"### H3"
-"#### H4"
-"##### H5"
-"###### H6"
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
 ## HTML
 ¿Qué es y para qué sirve el HTML?
@@ -33,17 +33,7 @@ El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para es
 
 Estructura documento HTML
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Mi pagina de prueba</title>
-    <link rel="icon" href="favicon.png">
-  </head>
-  <body>
-    <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
-  </body>
-</html>
+![html5](html5.png)
 
 Etiquetas básicas HTML
 
