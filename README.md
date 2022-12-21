@@ -63,6 +63,14 @@ Se coloca las propiedades de estilo en un documento externo con extensión .css 
 ![ubicacioncss](ubicacioncss.png)
   
 ESTRUCTURA
+
+Una hoja de estilos es un conjunto de reglas que definen la estética final de los documentos (X)HTML que la usan. Cada regla está formada por un selector y un conjunto de declaraciones.
+
+Una declaración está formada por una propiedad y su valor asociado.
+
+Un selector nos sirve para definir a qué elemento o elementos queremos aplicar las declaraciones de la regla. Las declaraciones son las diversas características que han de cumplir los elementos que concuerdan con el selector. A cada propiedad de cada declaración le ponemos el valor que sea necesario.
+
+![estructuracss](estructuracss.png)
   
 TIPOS DE SELECTORES
 
