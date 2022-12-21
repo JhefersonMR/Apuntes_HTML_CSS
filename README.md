@@ -78,14 +78,40 @@ Un selector nos sirve para definir a qué elemento o elementos queremos aplicar 
  
  Corresponde con todos los elementos de este nombre en la página. El siguiente ejemplo afectaría a TODOS los elementos <a> del documento HTML:
   
+ 
+/* All <a> elements. */
+a {
+   color: red;
+}
+
+
   ## Selector de clase
  
  Corresponde con todos los elementos que tengan el atributo class con el valor especificado. Por ejemplo el selector:
-  
+
+.example {
+   property: value;
+   property2: value2;
+}
+
+afectaría a los siguientes elementos HTML:
+
+<p class="example">
+<li class="example">
+<div class="example">
+
+
   ## Selector de id
  
  Corresponde a todos los elementos HTML que tienen un atributo id con el valor especificado.
   
+ 
+#example {
+   property: value;
+   property2: value2;
+}
+
+
 # MAS SELECTORES
   
   ## Selectores universales
@@ -116,7 +142,7 @@ Es más útil si se especifica el valor del atributo:
   
   ## Selectores de hijos
  
- Para seleccionar elementos concretos que son hijos DIRECTOS de otros elementos concretos. Por ejemplo, esta regla pone de color azul el texto de los elementos <strong> que son hijos de <h3> pero no el resto de elementos <strong>  
+ Para seleccionar elementos concretos que son hijos DIRECTOS de otros elementos concretos. Por ejemplo, esta regla pone de color azul el texto de los elementos <strong> que son hijos de < h3 > pero no el resto de elementos <strong>  
 
    h3>strong {
       color: blue;
