@@ -54,7 +54,7 @@ Etiquetas básicas HTML
   
 Básicamente, es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se encarga del contenido básico de las páginas.
   
-UBICACIÓN
+## UBICACIÓN
   
 Documento externo
 
@@ -62,7 +62,7 @@ Se coloca las propiedades de estilo en un documento externo con extensión .css 
   
 ![ubicacioncss](ubicacioncss.png)
   
-ESTRUCTURA
+## ESTRUCTURA
 
 Una hoja de estilos es un conjunto de reglas que definen la estética final de los documentos (X)HTML que la usan. Cada regla está formada por un selector y un conjunto de declaraciones.
 
@@ -72,23 +72,23 @@ Un selector nos sirve para definir a qué elemento o elementos queremos aplicar 
 
 ![estructuracss](estructuracss.png)
   
-TIPOS DE SELECTORES
+# TIPOS DE SELECTORES
 
-  Selector de elementos
+  ## Selector de elementos
  
  Corresponde con todos los elementos de este nombre en la página. El siguiente ejemplo afectaría a TODOS los elementos <a> del documento HTML:
   
-  Selector de clase
+  ## Selector de clase
  
  Corresponde con todos los elementos que tengan el atributo class con el valor especificado. Por ejemplo el selector:
   
-  Selector de id
+  ## Selector de id
  
  Corresponde a todos los elementos HTML que tienen un atributo id con el valor especificado.
   
- MAS SELECTORES
+# MAS SELECTORES
   
-  Selectores universales
+  ## Selectores universales
  
  Sirven para seleccionar todos los elementos de la página. En el  ejemplo, todos los elementos han de tener un borde solido negro de un pixel:
 
@@ -97,7 +97,7 @@ TIPOS DE SELECTORES
    }
 
   
-  Selectores de atributos
+  ## Selectores de atributos
  
  Permiten seleccionar elementos en función de los atributos que contienen. En el ejemplo quedan afectados todos los elementos <img> con un atributo “alt”.
    
@@ -114,9 +114,9 @@ Es más útil si se especifica el valor del atributo:
 
 
   
-  Selectores de hijos
+  ## Selectores de hijos
  
- Para seleccionar elementos concretos que son hijos DIRECTOS de otros elementos concretos. Por ejemplo, esta regla pone de color azul el texto de los elementos <strong> que son hijos de <h3> pero no el resto de elementos <strong>
+ Para seleccionar elementos concretos que son hijos DIRECTOS de otros elementos concretos. Por ejemplo, esta regla pone de color azul el texto de los elementos <strong> que son hijos de <h3> pero no el resto de elementos <strong>  
 
    h3>strong {
       color: blue;
@@ -124,7 +124,7 @@ Es más útil si se especifica el valor del atributo:
 
 
   
-COMPOSICIÓN. Margenes, bordes y relleno en CSS
+## COMPOSICIÓN. Margenes, bordes y relleno en CSS
   
   Margen (margin)
   
@@ -133,7 +133,7 @@ COMPOSICIÓN. Margenes, bordes y relleno en CSS
   Relleno (padding)
   
   
-Google Fonts
+## Google Fonts
  
  En https://fonts.google.com/ localizamos la familia de fuentes que queremos añadir.
  
