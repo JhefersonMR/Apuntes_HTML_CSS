@@ -37,16 +37,16 @@ Estructura documento HTML
 
 Etiquetas básicas HTML
 
-- Encabezados (<h1>...<h6>)  
-- Párrafos (<p>)  
- - Listas:  
-  listas desordenadas: <ul>  
-  listas ordenadas: <ol>  
- Cada elemento de la lista se coloca dentro de un elemento <li> (list item).  
-- Enlaces (<a>)  
-- Salto de línea (<br/>)  
-- Línea separadora (<hr/>)  
-- Cita (<blockquote>)  
+- Encabezados "(<h1>...<h6>)"   
+- Párrafos "(<p>)"  
+ - Listas:   
+  listas desordenadas: "<ul>"  
+  listas ordenadas: "<ol>"    
+ Cada elemento de la lista se coloca dentro de un elemento "<li>" (list item).  
+- Enlaces "(<a>)"  
+- Salto de línea "(<br/>)"   
+- Línea separadora "(<hr/>)"    
+- Cita "(<blockquote>)"  
   
 ## CSS
 
