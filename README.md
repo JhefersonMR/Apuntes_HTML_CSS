@@ -57,8 +57,10 @@ Básicamente, es un lenguaje que maneja el diseño y presentación de las págin
 UBICACIÓN
   
 Documento externo
+
+Se coloca las propiedades de estilo en un documento externo con extensión .css y desde el documento (X)HTML se enlaza con esta hoja de estilo con la etiqueta <link> dentro del elemento <head>. Por ejemplo, el documento (X)HTML tendría el siguiente aspecto:
   
-<link rel="stylesheet" href="estils.css" type="text/css" />
+![ubicacioncss](ubicacioncss.png)
   
 ESTRUCTURA
   
