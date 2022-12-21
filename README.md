@@ -2,11 +2,13 @@
 
 
 # INDICE  
-## -GITHUB  
-## -Markdown  
-## -HTML  
-## -CSS  
-## -Diseño responsive  
+### -GITHUB  
+### -Markdown  
+### -HTML  
+### -CSS  
+### -Diseño responsive  
+
+
 
 ## GITHUB
 ¿QUE ES GITHUB?
