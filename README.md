@@ -37,8 +37,8 @@ Estructura documento HTML
 
 Etiquetas básicas HTML
 
-- Encabezados (<h1> ... <h6>) 
-- Párrafos ( <p> )  
+- Encabezados (< h1 > ... < h6 >) 
+- Párrafos ( < p > )  
  - Listas:   
   listas desordenadas: < ul >  
   listas ordenadas: < ol >    
