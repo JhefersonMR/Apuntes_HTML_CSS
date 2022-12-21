@@ -1,10 +1,12 @@
-# Apuntes_HTML_CSS
-INDICE
--GITHUB
--Markdown
--HTML
--CSS
--Diseño responsive
+# Apuntes_HTML_CSS  
+
+
+# INDICE  
+## -GITHUB  
+## -Markdown  
+## -HTML  
+## -CSS  
+## -Diseño responsive  
 
 ## GITHUB
 ¿QUE ES GITHUB?
@@ -94,11 +96,11 @@ a {
    property2: value2;
 }
 
-afectaría a los siguientes elementos HTML:
+afectaría a los siguientes elementos HTML:  
 
-<p class="example">
-<li class="example">
-<div class="example">
+< p class="example" >
+< li class="example" >
+< div class="example" >
 
 
   ## Selector de id
@@ -144,7 +146,7 @@ Es más útil si se especifica el valor del atributo:
  
  Para seleccionar elementos concretos que son hijos DIRECTOS de otros elementos concretos. Por ejemplo, esta regla pone de color azul el texto de los elementos <strong> que son hijos de < h3 > pero no el resto de elementos <strong>  
 
-   h3>strong {
+   h3 >strong {
       color: blue;
    }
 
